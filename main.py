@@ -1,9 +1,6 @@
 # print hello world
 print("Hello world")
 
-# print good bye
-print("Good bye")
-
 # new function
 def add_two(num):
   return num + 2
